@@ -23,30 +23,30 @@ The starter code for this challenge consists of a single notebook file which wil
 
 ### Part 1: Find Unusual Patterns in Hourly Google Search Traffic
 
-- [] Slice and plot the data to the month of May 2020
-- [] Calculate search traffic for May 2020 and monthly medians
-- [] Answer analysis question of search traffic related to financial release
+- [ ] Slice and plot the data to the month of May 2020
+- [ ] Calculate search traffic for May 2020 and monthly medians
+- [ ] Answer analysis question of search traffic related to financial release
 
 ### Part 2: Mine the Search Traffic Data for Seasonality
 
-- [] Group data by hour and analyze
-- [] Group data by day and analyze
-- [] Group data by week and analyze
-- [] Answer analysis question of time based trends
+- [ ] Group data by hour and analyze
+- [ ] Group data by day and analyze
+- [ ] Group data by week and analyze
+- [ ] Answer analysis question of time based trends
 
 ### Part 3: Relate the Search Traffic to Stock Price Patterns
 
-- [] Plot new data and concatenate to earlier data
-- [] Slice the data for first half of 2020, display, plot, and search for trends (I note the analysis question here is previously answered)
-- [] Calculate lag, volatility, and hourly returns
-- [] Review correlations (I note the analysis question here has also been previously answered)
+- [ ] Plot new data and concatenate to earlier data
+- [ ] Slice the data for first half of 2020, display, plot, and search for trends (I note the analysis question here is previously answered)
+- [ ] Calculate lag, volatility, and hourly returns
+- [ ] Review correlations (I note the analysis question here has also been previously answered)
 
 
 ### Part 4: Create a Time Series Model with Prophet
 
-- [] Setup data for Prophet forecast
-- [] Estimate model, plot the forecast, and answer analysis question of near-term forecast
-- [] Plot individual model components and answer final questions
+- [ ] Setup data for Prophet forecast
+- [ ] Estimate model, plot the forecast, and answer analysis question of near-term forecast
+- [ ] Plot individual model components and answer final questions
 
 ## Running the Program
 
