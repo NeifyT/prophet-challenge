@@ -23,30 +23,30 @@ The starter code for this challenge consists of a single notebook file which wil
 
 ### Part 1: Find Unusual Patterns in Hourly Google Search Traffic
 
-- [ ] Slice and plot the data to the month of May 2020
-- [ ] Calculate search traffic for May 2020 and monthly medians
-- [ ] Answer analysis question of search traffic related to financial release
+- [x] Slice and plot the data to the month of May 2020
+- [x] Calculate search traffic for May 2020 and monthly medians
+- [x] Answer analysis question of search traffic related to financial release
 
 ### Part 2: Mine the Search Traffic Data for Seasonality
 
-- [ ] Group data by hour and analyze
-- [ ] Group data by day and analyze
-- [ ] Group data by week and analyze
-- [ ] Answer analysis question of time based trends
+- [x] Group data by hour and analyze
+- [x] Group data by day and analyze
+- [x] Group data by week and analyze
+- [x] Answer analysis question of time based trends
 
 ### Part 3: Relate the Search Traffic to Stock Price Patterns
 
-- [ ] Plot new data and concatenate to earlier data
-- [ ] Slice the data for first half of 2020, display, plot, and search for trends (I note the analysis question here is previously answered)
-- [ ] Calculate lag, volatility, and hourly returns
-- [ ] Review correlations (I note the analysis question here has also been previously answered)
+- [x] Plot new data and concatenate to earlier data
+- [x] Slice the data for first half of 2020, display, plot, and search for trends (I note the analysis question here is previously answered)
+- [x] Calculate lag, volatility, and hourly returns
+- [x] Review correlations (I note the analysis question here has also been previously answered)
 
 
 ### Part 4: Create a Time Series Model with Prophet
 
-- [ ] Setup data for Prophet forecast
-- [ ] Estimate model, plot the forecast, and answer analysis question of near-term forecast
-- [ ] Plot individual model components and answer final questions
+- [x] Setup data for Prophet forecast
+- [x] Estimate model, plot the forecast, and answer analysis question of near-term forecast
+- [x] Plot individual model components and answer final questions
 
 ## Running the Program
 
@@ -56,8 +56,8 @@ The program folder contains the completed notebook which can be run cell by cell
 forecasting_net_prophet.ipynb
 ```
 
-The outputs for cells in the notebook are saved with the file (just in case viewer does not wish to setup a Google Colaboratory environment in their own Google Drive). The notebook cells may be re-run from top to bottom. Outputs should resemble those displayed in the original starter code, depending on how static the data to be analyzed is.
+The outputs for cells in the notebook are saved with the file (just in case viewer does not wish to setup a Google Colaboratory environment in their own Google Drive). The notebook cells may be re-run from top to bottom. Standard outputs resemble those displayed in the original starter code. I also added enhanced plots using Matplotlib for easier readability and decipherability.
 
 ## Final Answers
 
-My answers to the final three questions will also be saved at the end of the notebook.
+My answers to the final three questions are also saved at the end of the notebook.
